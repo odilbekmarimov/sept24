@@ -1,0 +1,14 @@
+/Users/o.marimov/CLionProjects/sept24/cmake-build-debug/CMakeFiles/sept24.dir
+/Users/o.marimov/CLionProjects/sept24/cmake-build-debug/CMakeFiles/problem1.dir
+/Users/o.marimov/CLionProjects/sept24/cmake-build-debug/CMakeFiles/problem2.dir
+/Users/o.marimov/CLionProjects/sept24/cmake-build-debug/CMakeFiles/problem3.dir
+/Users/o.marimov/CLionProjects/sept24/cmake-build-debug/CMakeFiles/problem4.dir
+/Users/o.marimov/CLionProjects/sept24/cmake-build-debug/CMakeFiles/problem5.dir
+/Users/o.marimov/CLionProjects/sept24/cmake-build-debug/CMakeFiles/problem6.dir
+/Users/o.marimov/CLionProjects/sept24/cmake-build-debug/CMakeFiles/problem7.dir
+/Users/o.marimov/CLionProjects/sept24/cmake-build-debug/CMakeFiles/problem8.dir
+/Users/o.marimov/CLionProjects/sept24/cmake-build-debug/CMakeFiles/problem9.dir
+/Users/o.marimov/CLionProjects/sept24/cmake-build-debug/CMakeFiles/problem10.dir
+/Users/o.marimov/CLionProjects/sept24/cmake-build-debug/CMakeFiles/problem11.dir
+/Users/o.marimov/CLionProjects/sept24/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/o.marimov/CLionProjects/sept24/cmake-build-debug/CMakeFiles/rebuild_cache.dir
